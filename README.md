@@ -1,5 +1,5 @@
-# SudukoGame1
-# SudukoGame
+# SudokuGame1
+
 Instructions:
  -Suduko game is designed using HTML,CSS and JavaScript.
  -The game has time limit,theme change, difficulty.
