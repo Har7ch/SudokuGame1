@@ -1,21 +1,22 @@
 # SudokuGame1
 
 Instructions:
- -Suduko game is designed using HTML,CSS and JavaScript.
- -The game has time limit,theme change, difficulty.
- -timelimit has three options 
-    1) 3 minutes
-    2) 5 minutes
-    3) 10 minutes
+ 1)Suduko game is designed using HTML,CSS and JavaScript.
+ 
+ 2) The game has time limit,theme change, difficulty.
+ 3) Timelimit has three options 
+    i) 3 minutes
+    ii) 5 minutes
+    iii) 10 minutes
     but default is set to 3 minutes.
- -theme change has 2 options light and dark, but the default is set to light.
+ 4) theme change has 2 options light and dark, but the default is set to light.
  -difficulty has three options easy, medium and hard.The default is set to easy.
  
  
--Before starting a game you can choose difficulty, timelimit and theme.
--There are two buttons in the game, one is "NewGame!" and other is "Pause".
--"NewGame!" button is used to start a game or restart a game.
--"Pause" is used to pause the game after starting and before ending.
+5)Before starting a game you can choose difficulty, timelimit and theme.
+6)There are two buttons in the game, one is "NewGame!" and other is "Pause".
+7)"NewGame!" button is used to start a game or restart a game.
+8)"Pause" is used to pause the game after starting and before ending.
 
 After starting the game:
 - You need to click on "NewGame" to start the game.
