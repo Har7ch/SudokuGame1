@@ -32,5 +32,5 @@ After starting the game:
 - If you are out of chances or timer reaches zero you lose.
 - If you complete game by entering correct numbers into the empty spaces of Suduko board with in time bound you win.
 
-
+Link for game : https://har7ch.github.io/SudokuGame1/
 - Thank you and enjoy your game.PLAY ONLY ON DESKTOP.
