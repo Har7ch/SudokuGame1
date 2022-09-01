@@ -259,10 +259,10 @@ function checkDone(){
 
 function checkCorrect(tile){
     //set solution based on diff 
-    let solution
+    let solution;
     if(id("diff-1").checked) solution = easy[1];
     else if(id("diff-2").checked) solution = medium[1];
-    else board = hard[1];
+    else solution = hard[1];
     
     if(solution.charAt(tile.id) === tile.textContent) return true;
     else return false;
